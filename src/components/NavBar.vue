@@ -3,7 +3,7 @@
     <div class="navbar-inner">
       <div class="brand">
         <span class="brand-icon">📝</span>
-        <span class="brand-name">SlipTest</span>
+        <span class="brand-name">ExamifyNow</span>
       </div>
       <div class="nav-right">
         <span class="user-info">
